@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: 100% !important;
+  min-height: 100% !important;
+}
+
+.rehcartDiv .recharts-wrapper{
+  height: 200px !important;
+}
+
+.select .css-b62m3t-container .css-13cymwt-control{
+  background-color: #E9E9E9;
+}
